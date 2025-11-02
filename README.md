@@ -11,3 +11,5 @@
 [9] 2024 - CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models [arxiv.org](https://arxiv.org/abs/2401.17043) | [github](https://github.com/IAAR-Shanghai/CRUD_RAG)  
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
+## 3. Code Generation
+[1] 2025 - Сказ о бенчмарках: Как мы собирали датасеты для AI-assisted IDE [ods.ai](https://ods.ai/tracks/df25-ai4se/blocks/a374b54d-d5ef-47d9-877c-93df7a27edc1) или [vkvideo](https://vkvideo.ru/video-164555658_456241456?ref_domain=ods.ai)
