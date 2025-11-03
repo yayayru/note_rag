@@ -14,5 +14,5 @@
 ## 3. Code Generation
 [1] 2025 - Сказ о бенчмарках: Как мы собирали датасеты для AI-assisted IDE [ods.ai](https://ods.ai/tracks/df25-ai4se/blocks/a374b54d-d5ef-47d9-877c-93df7a27edc1) или [vkvideo](https://vkvideo.ru/video-164555658_456241456?ref_domain=ods.ai)  
 [2] Feed Your Code to any LLM [git1file.com](https://git1file.com)  
-[3] Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой [habr](https://habr.com/ru/articles/962490/) | [https://code2prompt.dev/](code2prompt.dev) | [github](https://github.com/mufeedvh/code2prompt)  
+[3] Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой [habr](https://habr.com/ru/articles/962490/) | [code2prompt.dev](https://code2prompt.dev/) | [github](https://github.com/mufeedvh/code2prompt)  
 
