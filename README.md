@@ -9,6 +9,7 @@
 [7] 2025 - CRAG: Evolving Retrieval-Augmented Generation to Support Full CRUD Operations [medium.com](https://kalami.medium.com/crag-evolving-retrieval-augmented-generation-to-support-full-crud-operations-bc507bdcaaa9)  
 [8] 2023 - Benchmarking Large Language Models in Retrieval-Augmented Generation [arxiv.org](https://arxiv.org/abs/2309.01431)  
 [9] 2024 - CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models [arxiv.org](https://arxiv.org/abs/2401.17043) | [github](https://github.com/IAAR-Shanghai/CRUD_RAG)  
+[10] - Chonkie: революция в RAG-чанкинге — скорость, лёгкость, удобство [habr](https://habr.com/ru/companies/raft/articles/954158/) | [github](https://github.com/chonkie-inc/chonkie)
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
 ## 3. Code Generation
