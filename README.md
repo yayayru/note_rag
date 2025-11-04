@@ -19,6 +19,7 @@
  - About: 💡 Awesome RAG: An up-to-date list of Retrieval-Augmented Generation (RAG) for LLMs, focusing on the development of technology. [github](https://github.com/liunian-Jay/Awesome-RAG)
  - About: Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models [github](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
 [14] - LangChain vs LlamaIndex: проектируем RAG и разбираемся, что выбрать для вашего проекта [habr](https://habr.com/ru/companies/raft/articles/875758/)
+[15] - The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab [youtube](https://www.youtube.com/watch?v=illvibK_ZmY)
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
  - Spec Kit: How to Build Production-Ready Apps with AI Agents [youtube](https://youtu.be/8jtIXRyGMQU?si=iN2QM7-brOzb2b4i)
