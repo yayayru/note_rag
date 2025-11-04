@@ -14,10 +14,11 @@
 [12] 2025 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [arxiv.org](https://arxiv.org/abs/2501.09136)
 
 
-[13] - Awesome
+[13] - **Awesome**:
  - About: 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. [github](https://github.com/Danielskry/Awesome-RAG)
  - About: A curated list of retrieval-augmented generation (RAG) in large language models [github](https://github.com/coree/awesome-rag)
  - About: Draft [github](https://github.com/frutik/Awesome-RAG?tab=readme-ov-file)
+[14] - LangChain vs LlamaIndex: проектируем RAG и разбираемся, что выбрать для вашего проекта [habr](https://habr.com/ru/companies/raft/articles/875758/)
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
 ## 3. Code Generation
