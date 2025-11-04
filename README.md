@@ -17,14 +17,22 @@
  - About: A curated list of retrieval-augmented generation (RAG) in large language models [github](https://github.com/coree/awesome-rag)
  - About: Draft [github](https://github.com/frutik/Awesome-RAG?tab=readme-ov-file)
  - About: 💡 Awesome RAG: An up-to-date list of Retrieval-Augmented Generation (RAG) for LLMs, focusing on the development of technology. [github](https://github.com/liunian-Jay/Awesome-RAG)
- - About: Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models [github](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+ - About: Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models [github](https://github.com/jxzhangjhu/Awesome-LLM-RAG)  
 [14] - LangChain vs LlamaIndex: проектируем RAG и разбираемся, что выбрать для вашего проекта [habr](https://habr.com/ru/companies/raft/articles/875758/)
 [15] - The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab [youtube](https://www.youtube.com/watch?v=illvibK_ZmY)
+RAG-Anything: All-in-One RAG Framework [arxiv.org](https://arxiv.org/abs/2510.12323) | [github](https://github.com/HKUDS/RAG-Anything)
+[16] - ragflow [github](https://github.com/infiniflow/ragflow)  
+[17] - LightRAG: Simple and Fast Retrieval-Augmented Generation [github](https://github.com/HKUDS/LightRAG)  
+[16] - [github](https://github.com/pathwaycom/pathway)
+  - Slides AI Search App [github](https://github.com/pathwaycom/llm-app/tree/main/templates/slides_ai_search)
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
  - Spec Kit: How to Build Production-Ready Apps with AI Agents [youtube](https://youtu.be/8jtIXRyGMQU?si=iN2QM7-brOzb2b4i)
+
 ## 3. Code Generation
 [1] 2025 - Сказ о бенчмарках: Как мы собирали датасеты для AI-assisted IDE [ods.ai](https://ods.ai/tracks/df25-ai4se/blocks/a374b54d-d5ef-47d9-877c-93df7a27edc1) или [vkvideo](https://vkvideo.ru/video-164555658_456241456?ref_domain=ods.ai)  
 [2] Feed Your Code to any LLM [git1file.com](https://git1file.com)  
 [3] Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой [habr](https://habr.com/ru/articles/962490/) | [code2prompt.dev](https://code2prompt.dev/) | [github](https://github.com/mufeedvh/code2prompt)  
 
+## 4. DevOps
+[1] The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab [youtube](https://www.youtube.com/watch?v=illvibK_ZmY)
