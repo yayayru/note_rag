@@ -10,6 +10,14 @@
 [8] 2023 - Benchmarking Large Language Models in Retrieval-Augmented Generation [arxiv.org](https://arxiv.org/abs/2309.01431)  
 [9] 2024 - CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models [arxiv.org](https://arxiv.org/abs/2401.17043) | [github](https://github.com/IAAR-Shanghai/CRUD_RAG)  
 [10] - Chonkie: революция в RAG-чанкинге — скорость, лёгкость, удобство [habr](https://habr.com/ru/companies/raft/articles/954158/) | [github](https://github.com/chonkie-inc/chonkie)
+[11] 2025 - 17 Representative Open-Source RAG Projects with 1K+ Stars in 2024 (Part 1) [medium.com](https://medium.com/@r9644360/17-representative-open-source-rag-projects-with-1k-stars-in-2024-part-1-dd12f1aa9725) | (Part 2) [medium.com](https://medium.com/@r9644360/17-representative-open-source-rag-projects-with-1k-stars-in-2024-part-2-01367ef58855)
+[12] 2025 - Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [arxiv.org](https://arxiv.org/abs/2501.09136)
+
+
+[13] - Awesome
+ - About: 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI. [github](https://github.com/Danielskry/Awesome-RAG)
+ - About: A curated list of retrieval-augmented generation (RAG) in large language models [github](https://github.com/coree/awesome-rag)
+ - About: Draft [github](https://github.com/frutik/Awesome-RAG?tab=readme-ov-file)
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
 ## 3. Code Generation
