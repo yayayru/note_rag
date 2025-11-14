@@ -35,5 +35,8 @@
 [2] Feed Your Code to any LLM [git1file.com](https://git1file.com)  
 [3] Почему ваш AI-ассистент пишет «вырвиглазный» код, и как это исправить грубой силой [habr](https://habr.com/ru/articles/962490/) | [code2prompt.dev](https://code2prompt.dev/) | [github](https://github.com/mufeedvh/code2prompt)  
 
-## 4. DevOps
+## 4. Ops
+### DevOps
 [1] The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab [youtube](https://www.youtube.com/watch?v=illvibK_ZmY)
+### PromptOps
+[2] PromptLayer — это программная платформа/инструмент, ориентированный на управление «промпт‑инжинирингом» (то есть разработкой и оптимизацией запросов к большим языковым моделям, LLM). [promptlayer.com](https://www.promptlayer.com/)
