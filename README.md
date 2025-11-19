@@ -26,6 +26,13 @@
 [18] - LightRAG: Simple and Fast Retrieval-Augmented Generation [github](https://github.com/HKUDS/LightRAG)  
 [19] - [github](https://github.com/pathwaycom/pathway)  
   - Slides AI Search App [github](https://github.com/pathwaycom/llm-app/tree/main/templates/slides_ai_search)  
+### 1.1 Dataset
+|id|Name|Publication|Link|
+|--|----|-----------|----|
+|1 |RAGBench|Friel et al. [2024](https://arxiv.org/html/2407.11005v1)|[huggingface](https://huggingface.co/datasets/galileo-ai/ragbench),[github](https://github.com/rungalileo/ragbench)|
+
+### 1.2 
+
 ## 2. Spec-Driven Development
 [1] 2025 - Specification-Driven Development // SDD [medium.com](https://noailabs.medium.com/specification-driven-development-sdd-66a14368f9d6)  
  - Spec Kit: How to Build Production-Ready Apps with AI Agents [youtube](https://youtu.be/8jtIXRyGMQU?si=iN2QM7-brOzb2b4i)
