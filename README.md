@@ -47,3 +47,17 @@
 [1] The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab [youtube](https://www.youtube.com/watch?v=illvibK_ZmY)
 ### PromptOps
 [2] PromptLayer — это программная платформа/инструмент, ориентированный на управление «промпт‑инжинирингом» (то есть разработкой и оптимизацией запросов к большим языковым моделям, LLM). [promptlayer.com](https://www.promptlayer.com/)
+
+## 5. Multiagent
+[1] 5-Day AI Agents Intensive Course with Google [kaggle](https://www.kaggle.com/learn-guide/5-day-agents)  
+[2] Large Language Model Agent: A Survey on Methodology, Applications and Challenges [github](https://github.com/luo-junyu/Awesome-Agent-Papers)
+[3] Multi-agent LLMs in 2025 [+frameworks] [superannotate](https://www.superannotate.com/blog/multi-agent-llms)
+[4] Awesome Multi-Agent Learning(About: A curated list of awesome multi-agent learning papers) [github](https://github.com/WeiChengTseng/awesome-multi-agent)
+[5] Awesome Multi-Agent Papers [github](https://github.com/kyegomez/awesome-multi-agent-papers)
+### Framework
+- Google ADK
+  - Agent Development Kit (ADK) Samples [github](https://github.com/google/adk-samples/tree/main)
+- LangGraph
+- metaGPT
+- AutoGen
+- aisuite from Andrew Ng
